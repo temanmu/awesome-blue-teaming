@@ -16,13 +16,75 @@ https://csrc.nist.gov/glossary/term/blue_team
 * [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)
 * [Phising](#phising)
 
+----------------------------------------------------------------------------------------------------------------------------
 #### Threat Intelligence
+  * ##### Books
+    * [The Threat Intelligence Handbook: A Practical Guide for Security Teams to Unlocking the Power of Intelligence](https://www.amazon.com/Threat-Intelligence-Handbook-Practical-Unlocking/dp/099903546)
+    * [Intelligence-Driven Incident Response: Outwitting the Adversary](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary/dp/1491934948)
+    * [Structured Analytic Techniques for Intelligence Analysis](https://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511)
+    * [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage ](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/0385249462)
 
+  * ##### Courses
+    * []()
+
+  * ##### Tools
+    * []()
+
+  * ##### Other resources
+    * []()
+----------------------------------------------------------------------------------------------------------------------------
 #### Digital Forensics
+  * ##### Books
+    * []()
 
+  * ##### Courses
+    * []()
+
+  * ##### Tools
+    * []()
+
+  * ##### Other resources
+    * []()
+
+----------------------------------------------------------------------------------------------------------------------------
 #### Incident Response
+  * ##### Books
+    * []()
 
+  * ##### Courses
+    * []()
+
+  * ##### Tools
+    * []()
+
+  * ##### Other resources
+    * []()
+
+----------------------------------------------------------------------------------------------------------------------------
 #### Security Information and Event Management (SIEM)
+  * ##### Books
+    * []()
 
+  * ##### Courses
+    * []()
+
+  * ##### Tools
+    * []()
+
+  * ##### Other resources
+    * []()
+
+----------------------------------------------------------------------------------------------------------------------------
 #### Phising
+  * ##### Books
+    * []()
+
+  * ##### Courses
+    * []()
+
+  * ##### Tools
+    * []()
+
+  * ##### Other resources
+    * []()
 

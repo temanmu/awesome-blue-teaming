@@ -89,16 +89,56 @@ https://csrc.nist.gov/glossary/term/blue_team
 ----------------------------------------------------------------------------------------------------------------------------
 #### Digital Forensics
   * ##### Books
-    * []()
+    * [Learn Computer Forensics: A beginner's guide to searching, analyzing, and securing digital evidence](https://www.amazon.com/Learn-Computer-Forensics-beginners-searching-ebook/dp/B086WBP289)
+    * [The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware-ebook-dp-B00JUUZSQC/dp/B00JUUZSQC)
+    * [Practical Forensic Imaging](https://nostarch.com/forensicimaging)
+    * [Handbook of Digital Forensics and Investigation](https://www.amazon.com/Handbook-Digital-Forensics-Investigation-Eoghan-ebook-dp-B00486UK2K/dp/B00486UK2K)
 
   * ##### Courses / Certification
-    * []()
+    * [Digital Forensics and Electronic Evidence](https://www.udemy.com/course/digital-forensics-and-electronic-evidence)
+    * [FOR500: Windows Forensic Analysis](https://www.sans.org/cyber-security-courses/windows-forensic-analysis)
+    * [eLearnSecurity Certified Digital Forensics Professional](https://elearnsecurity.com/product/ecdfp-certification)
+    * [Computer Hacking and Forensics](https://www.cybrary.it/course/computer-hacking-forensics-analyst)
 
   * ##### Tools
-    * []()
+    <table>
+     <tr>
+        <td>
+            <a href="https://github.com/USArmyResearchLab/Dshell" target="_blank">Dshell</a>
+        </td>
+        <td>
+         An extensible network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/volatilityfoundation/volatility" target="_blank">Volatility</a>
+        </td>
+        <td>
+         Volatile memory extraction utility framework
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/keikoproj/kube-forensics" target="_blank">kube-forensics</a>
+        </td>
+        <td>
+         Kube-forensics allows a cluster administrator to dump the current state of a running pod and all its containers so that security professionals can perform off-line forensic analysis.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/jipegit/OSXAuditor" target="_blank">OS X Auditor</a>
+        </td>
+        <td>
+         OS X Auditor is a free Mac OS X computer forensics tool.
+        </td>
+    </tr>
+    </table>
 
   * ##### Other resources
-    * []()
+    * [CTF101 Forensics](https://ctf101.org/forensics/overview)
+    * [CTF forensic methods big summary, the proposed collection](https://titanwolf.org/Network/Articles/Article?AID=6f90269f-46df-4e46-adb6-96ded44ad154)
 
 ----------------------------------------------------------------------------------------------------------------------------
 #### Incident Response

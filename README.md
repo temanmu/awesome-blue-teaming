@@ -260,55 +260,51 @@ https://csrc.nist.gov/glossary/term/blue_team
 ----------------------------------------------------------------------------------------------------------------------------
 #### Phising
   * ##### Books
-    * []()
+    * [Social Engineering: The Art of Human Hacking](https://www.amazon.co.uk/Social-Engineering-Art-Human-Hacking/dp/0470639539)
+    * [Social Engineering: The Science of Human Hacking](https://www.amazon.com/Social-Engineering-Science-Human-Hacking-ebook-dp-B07F24YV2M/dp/B07F24YV2M)
+    * [The Art of Deception: Controlling the Human Element of Security](https://www.amazon.co.uk/Art-Deception-Controlling-Element-Security/dp/076454280X/)
+    * [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother-ebook/dp/B01GZY28CW/)
 
   * ##### Courses / Certification
-    * []()
-    * 
-    * 
-    * 
+    * [Learn Social Engineering From Scratch](https://www.udemy.com/course/learn-social-engineering-from-scratch/)
+    * [SEC467: Social Engineering for Security Professionals](https://www.sans.org/cyber-security-courses/social-engineering-security-professionals/)
 
   * ##### Tools
      <table>
     <tr>
         <td>
-            <a href="https://github.com/ThreatResponse/aws_ir" target="_blank">AWS IR</a>
+            <a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">The Social-Engineer Toolkit (SET)</a>
         </td>
         <td>
-         Python installable command line utility for mitigation of instance and key compromises.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/ThreatResponse/aws_ir" target="_blank">AWS IR</a>
-        </td>
-        <td>
-         Python installable command line utility for mitigation of instance and key compromises.
+         The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering.
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/ThreatResponse/aws_ir" target="_blank">AWS IR</a>
+            <a href="https://github.com/rsmusllp/king-phisher" target="_blank">King Phisher</a>
         </td>
         <td>
-         Python installable command line utility for mitigation of instance and key compromises.
+         King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks.
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/ThreatResponse/aws_ir" target="_blank">AWS IR</a>
+            <a href="https://github.com/kgretzky/evilginx2" target="_blank">Evilginx2</a>
         </td>
         <td>
-         Python installable command line utility for mitigation of instance and key compromises.
+         evilginx2 is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
         </td>
     </tr>
     </table>
 
   * ##### Other resources
-    * 
+    * Movie - [Inception](https://www.imdb.com/title/tt1375666/)
+    * Movie - [Catch Me If You Can](https://www.imdb.com/title/tt0264464/)
+
+
 
 
 
 
 ## Contributing
-   Feel free to open a pull request 
+   Feel free to open a pull request, Your contribution and suggestion are welcome :)

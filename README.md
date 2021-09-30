@@ -139,6 +139,7 @@ https://csrc.nist.gov/glossary/term/blue_team
   * ##### Other resources
     * [CTF101 Forensics](https://ctf101.org/forensics/overview)
     * [CTF forensic methods big summary, the proposed collection](https://titanwolf.org/Network/Articles/Article?AID=6f90269f-46df-4e46-adb6-96ded44ad154)
+    * [FORENSIC CHALLENGES](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 
 ----------------------------------------------------------------------------------------------------------------------------
 #### Incident Response
@@ -149,7 +150,10 @@ https://csrc.nist.gov/glossary/term/blue_team
     * [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/)
 
   * ##### Courses / Certification
-    * []()
+    * [Cyber Incident Response](https://www.coursera.org/learn/incident-response)
+    * [Cyber Security Incident Response](https://www.udemy.com/course/ksc_learn-incident-response/)
+    * [eLearnSecurity Certified Incident Responder](https://elearnsecurity.com/product/ecir-certification/)
+    * [GIAC Certified Incident Handler (GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih)
 
   * ##### Tools
     <table>
@@ -188,21 +192,70 @@ https://csrc.nist.gov/glossary/term/blue_team
     </table>
 
   * ##### Other resources
-    * []()
+    * [Free DFIR, OSINT & Blue Team CTFs and Challenges](https://freetraining.dfirdiva.com/dfir-ctfs-challenges)
 
 ----------------------------------------------------------------------------------------------------------------------------
 #### Security Information and Event Management (SIEM)
   * ##### Books
-    * []()
+    * [Blue Team Handbook: SOC, SIEM, and Threat Hunting (V1.02): A Condensed Guide for the Security Operations Team and Threat Hunter](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/)
+    * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding/dp/1593275099)
+    * [Crafting the InfoSec Playbook: Security Monitoring and Incident Response Master Plan](https://www.amazon.com/Crafting-InfoSec-Playbook-Security-Monitoring/dp/1491949406/)
+    * [Security Information and Event Management (SIEM) Implementation (Network Pro Library)](https://www.amazon.com/Security-Information-Management-Implementation-Network/dp/0071701095/)
 
   * ##### Courses / Certification
-    * []()
+    * [Real-Time Cyber Threat Detection and Mitigation](https://www.coursera.org/learn/real-time-cyber-threat-detection)
+    * [Splunk 7.x Fundamentals Part 1 (eLearning)](https://education.splunk.com/course/splunk-7x-fundamentals-part-1-elearning)
+    * [BLUE TEAM LEVEL 1 SECURITY OPS CERTIFICATION](https://securityblue.team/why-btl1/)
+    * [Splunk Enterprise Security Certified Admin](https://www.splunk.com/en_us/training/certification-track/splunk-es-certified-admin.html)
 
   * ##### Tools
-    * []()
+    <table>
+    <tr>
+        <td>
+            <a href="https://github.com/ossec/ossec-hids" target="_blank">OSSEC</a>
+        </td>
+        <td>
+         OSSEC is a full platform to monitor and control your systems. It mixes together all the aspects of HIDS (host-based intrusion detection), log monitoring and SIM/SIEM together in a simple, powerful and open source solution.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/wazuh/wazuh" target="_blank">Wazuh</a>
+        </td>
+        <td>
+         Wazuh is a free and open source platform used for threat prevention, detection, and response.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/OISF/suricata" target="_blank">Suricata</a>
+        </td>
+        <td>
+         Suricata is a network IDS, IPS and NSM engine.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/snort3/snort3" target="_blank">Snort++</a>
+        </td>
+        <td>
+         Snort 3 is the next generation Snort IPS (Intrusion Prevention System).
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.splunk.com/en_us/cyber-security/siem.html" target="_blank">Splunk SIEM</a>
+        </td>
+        <td>
+         Monitor, detect, investigate and respond to threats with streaming, cloud-based security analytics.
+        </td>
+    </tr>
+    </table>
 
   * ##### Other resources
-    * []()
+    * Chall - [Boss Of The SOC v1](https://cyberdefenders.org/labs/15)
+    * Chall - [Boss Of The SOC v2](https://cyberdefenders.org/labs/16)
+    * Chall - [Boss Of The SOC v3](https://cyberdefenders.org/labs/8)
 
 ----------------------------------------------------------------------------------------------------------------------------
 #### Phising
@@ -211,10 +264,51 @@ https://csrc.nist.gov/glossary/term/blue_team
 
   * ##### Courses / Certification
     * []()
+    * 
+    * 
+    * 
 
   * ##### Tools
-    * []()
+     <table>
+    <tr>
+        <td>
+            <a href="https://github.com/ThreatResponse/aws_ir" target="_blank">AWS IR</a>
+        </td>
+        <td>
+         Python installable command line utility for mitigation of instance and key compromises.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/ThreatResponse/aws_ir" target="_blank">AWS IR</a>
+        </td>
+        <td>
+         Python installable command line utility for mitigation of instance and key compromises.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/ThreatResponse/aws_ir" target="_blank">AWS IR</a>
+        </td>
+        <td>
+         Python installable command line utility for mitigation of instance and key compromises.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/ThreatResponse/aws_ir" target="_blank">AWS IR</a>
+        </td>
+        <td>
+         Python installable command line utility for mitigation of instance and key compromises.
+        </td>
+    </tr>
+    </table>
 
   * ##### Other resources
-    * []()
+    * 
 
+
+
+
+## Contributing
+   Feel free to open a pull request 

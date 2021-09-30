@@ -26,7 +26,7 @@ https://csrc.nist.gov/glossary/term/blue_team
 
   * ##### Courses / Certification
     * [Cyber Threat Intelligence](https://www.coursera.org/learn/ibm-cyber-threat-intelligence)
-    * [Certified Threat Intelligence Analyst (C|TIA)](https://www.eccouncil.org/programs/threat-intelligence-training)
+    * [Certified Threat Intelligence Analyst](https://www.eccouncil.org/programs/threat-intelligence-training)
     * [Certified Cyber Threat Intelligence Analyst](https://www.udemy.com/course/cybersecurity-threat-intelligence-researcher)
     * [FOR578: Cyber Threat Intelligence](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence)
 
